@@ -1,17 +1,4 @@
-### Hi there 👋
-
-<!--
-**BeatriceNjeriMwangi/BeatriceNjeriMwangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...<h1 align="center">Hi 👋, I'm Beatrice Njeri</h1>
+<h1 align="center">Hi 👋, I'm Beatrice Njeri</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
 - 🔭 I’m currently working on **Full stack developments**
@@ -26,7 +13,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **bbeatricemwangi@gmail.com**
 
-- ⚡ Fun fact **I am fast learner and adapt well to all environments.**
+- ⚡ Fun fact **I am a fast learner and adapt well in all environments.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +27,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beatricenjerimwangi&show_icons=true&locale=en" alt="beatricenjerimwangi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beatricenjerimwangi&" alt="beatricenjerimwangi" /></p>
 
-- ⚡ Fun fact: ...
--->
